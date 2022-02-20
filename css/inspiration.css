@@ -1,0 +1,13 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.content
+{
+    height: 600px;
+    background-image: url(../img/inspiration.jpg);
+    background-size: cover;
+}
+
+

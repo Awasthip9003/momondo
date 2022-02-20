@@ -1,0 +1,65 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+ .hotelcontainer
+{
+    height: 580px;
+    background-image: url(../img/hotel.jpg);
+    background-size: cover;
+    
+} 
+.hotelbox
+{
+    width: 300px;
+	height: 276px;
+	background-color: deeppink ;
+	position: relative;
+    top: 40%;
+    left: 71%;
+    text-align: center;
+    color: white;
+
+}
+.hotelbox h2
+{
+ position: relative;
+ text-transform: capitalize;
+
+ top: 9%; 
+}
+.hotelbox h1
+{
+ position: relative;
+ text-transform: capitalize;
+
+ top: 9%; 
+}
+.hotelbox hr
+{
+    text-transform: capitalize;
+    position: relative;
+    top: 15%;
+    color: black; 
+}
+.hotelbox h4
+{
+    text-transform: capitalize;
+    position: relative;
+    top: 18%; 
+}
+.hotelbox h5
+{
+    position: relative;
+    top: 23%; 
+}
+.booknow
+{
+    height: 40px;
+    width: 265px;
+    color: white;
+    position: relative;
+    background-color: black;
+    top: 78px;
+}

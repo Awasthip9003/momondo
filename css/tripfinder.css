@@ -1,0 +1,63 @@
+*
+{
+padding: 0px;
+margin: 0px;
+}
+.tripcontainer
+{
+    height: 600px;
+    width: 100%;
+    background-image: url(../img/tripfiner.jpg);
+    background-size: cover;
+
+}
+.tripcontainer .trip
+{
+    height: 800px;
+    width: auto;
+    position: relative;
+   
+}
+.tripcontainer .trip form h2{
+    background-color: #eadedea3;
+    color: rgb(142, 41, 41);
+    text-align: center;
+    position: relative;
+    top: 153px;
+    left: 39%;
+    height: 40px;
+    width: 333px;
+    line-height: 40px;
+    border-bottom-left-radius: 15px;
+    border: 2px solid #1b1c1b;}
+.make
+{
+    height: 40px;
+width: 331px;
+text-align: center;
+position: relative;
+top: 171px;
+left: 499px;
+}
+.make2
+{
+    height: 40px;
+width: 331px;
+    text-align: center;
+    position: relative;
+    top: 240px;
+left: 163px;
+}
+.make3 
+{
+    height: 40px;
+    width: 91px;
+    text-align: center;
+    position: relative;
+    background-color: rgb(255, 136, 0); 
+    top: 288px;
+    left: -68px;
+    color: white;
+    border-bottom-left-radius: 15px;
+  border: 2px solid #35f30f;
+} 

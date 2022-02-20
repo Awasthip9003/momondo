@@ -1,0 +1,64 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.carcontainer
+{
+    height: 400px;
+    background-image: url(../img/carhire.jpg);
+    background-size: cover;
+}
+.carbox
+{
+    width: 300px;
+	height: 296px;
+	background-color: rgba(10, 10, 10, 0.8) ;
+	position: relative;
+    top: 21%;
+    left: 16%;
+    text-align: center;
+    color: rgb(250, 173, 8);
+
+}
+.carbox h2
+{
+ position: relative;
+ text-transform: capitalize;
+
+ top: 9%; 
+}
+.carbox h1
+{
+ position: relative;
+ text-transform: capitalize;
+
+ top: 9%; 
+}
+.carbox hr
+{
+    text-transform: capitalize;
+    position: relative;
+    top: 15%;
+    color: rgb(243, 6, 6); 
+}
+.carbox h4
+{
+    text-transform: capitalize;
+    position: relative;
+    top: 18%; 
+}
+.carbox h5
+{
+    position: relative;
+    top: 23%; 
+}
+.booknow
+{
+    height: 40px;
+    width: 265px;
+    color: white;
+    position: relative;
+    background-color: rgb(100, 190, 105);
+    top: 78px;
+}
